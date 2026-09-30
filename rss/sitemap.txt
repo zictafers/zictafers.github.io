@@ -1,0 +1,16 @@
+/rss/sitemap-001.xml
+/rss/sitemap-002.xml
+/rss/sitemap-003.xml
+/rss/sitemap-004.xml
+/rss/sitemap-005.xml
+/rss/sitemap-006.xml
+/rss/sitemap-007.xml
+/rss/sitemap-008.xml
+/rss/sitemap-009.xml
+/rss/sitemap-010.xml
+/rss/sitemap-011.xml
+/rss/sitemap-012.xml
+/rss/sitemap-013.xml
+/rss/sitemap-014.xml
+/rss/sitemap-015.xml
+/rss/sitemap-016.xml
